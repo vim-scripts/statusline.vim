@@ -1,11 +1,14 @@
 " Summary:     Beautify statusline
 " Description:
 "         This script is based on the light2011 colorscheme. Thanks for xiaohuyee <xiaohuyee@gmail.com>
-"         to give us such a pretty gift.
+"         to give us such a pretty gift. He did most of the work. I just
+"         stood on his shoulders.
 "         I am looking for a beautiful vim statusline for a long time but found nothing
 "         until I met the light2011.
 "         Last night I spent several hours to beautify my statusline, it looks good.
 "         And now I give it to you.
+" Screenshot: 
+"         http://vimer.1063083.n5.nabble.com/beautiful-vim-statusline-td4777850.html
 "         
 " Maintainer: Tian Huixiong: <nedzqbear@gmail.com>
 "             I'm very glad to receive your feedback. 
@@ -17,7 +20,7 @@
 "         Or put it in $vim/vimfiles/plugin on Windows.
 " Tutorial:
 "         Just use it, and change it.
-"         When you edit it, do not trailing blanks at the end of lines.
+"         When you edit it, do not erase trailing-blanks.
 
 set laststatus=2
 set statusline=
